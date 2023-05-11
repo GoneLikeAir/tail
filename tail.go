@@ -7,6 +7,7 @@ import (
 	"bufio"
 	"errors"
 	"fmt"
+	"gopkg.in/tomb.v1"
 	"io"
 	"io/ioutil"
 	"log"
